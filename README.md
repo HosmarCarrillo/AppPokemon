@@ -14,7 +14,7 @@
   <img height="150" src="https://res.cloudinary.com/freevents/image/upload/v1665599440/mio/pybq9iwygzaawznjwnyw.png" />
 <div/>
 <div>
-<img height="150" src="https://res.cloudinary.com/freevents/image/upload/v1665600225/mio/kioxpfu7qqxt3bruu1fo.png" />
+<img height="150" src="https://res.cloudinary.com/freevents/image/upload/v1665600305/mio/e239ywajkqsehh4btifj.png" />
 <img height="150" src="https://res.cloudinary.com/freevents/image/upload/v1665599440/mio/x4yhrpkvweca9drkl1ut.png" />
 <img height="150" src="https://res.cloudinary.com/freevents/image/upload/v1665599441/mio/uil9aj2l8mmkjyb2ggaw.png" />
 <div/>
